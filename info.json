@@ -1,11 +1,11 @@
 {
   "name": "TFMG-assets-0",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "title": "TFMG Assets",
   "author": "oobanooba",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.66"
+    "base >= 2.0.72"
   ],
   "space_travel_required": true,
   "description": "This mod does nothing without TFMG. It only contains the graphical assets for the mod."
